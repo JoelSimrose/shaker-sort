@@ -3,7 +3,7 @@
 ## Table of contents
 
 ## General info
-This project uses Java to implement the bucket sort algorithm to test its performance.   
+This project uses Java to implement the shaker sort algorithm to test its performance.   
 
 ## Technologies
 Project was created with: 
